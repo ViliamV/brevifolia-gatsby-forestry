@@ -5,6 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Research
+- type: directory
+  path: src/research
+  label: Research posts
+  create: all
+  match: "**/*"
+  templates:
+  - research-post
+- type: heading
   label: Content
 - type: directory
   path: content/posts
