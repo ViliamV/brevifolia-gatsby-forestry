@@ -40,6 +40,7 @@ fields:
   default: []
   label: Tags
 pages:
+- content/posts/ahojte-vsetci.md
 - content/posts/an-essay-on-walking.md
 - content/posts/kldfjalksdjfklsjfs.md
 - content/posts/ne-te-quaesiveris-extra.md
